@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-#!/bin/bas
-The school is open
 
-=======
 #!/bin/bash
->>>>>>> update_script
+The school is open!
+#!/bin/bash
+update_script
